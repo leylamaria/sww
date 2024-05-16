@@ -1,0 +1,6 @@
+.Hero {
+  background-image: url("/src/assets/christian.png"), url("/src/assets/sky.png");
+  background-size: 600px, cover;
+  background-position: bottom right, center;
+  background-repeat: no-repeat;
+}

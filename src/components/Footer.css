@@ -1,0 +1,7 @@
+.Footer {
+  background-image: url("/src/assets/wirsing.png"),
+    url("/src/assets/weiden-oberpfalz-torbogen.jpg");
+  background-repeat: no-repeat;
+  background-size: 700px, cover;
+  background-position: bottom left, center;
+}
