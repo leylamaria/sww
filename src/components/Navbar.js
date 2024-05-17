@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import IconWater from "./IconWater";
 import IconGas from "./IconGas";
 import IconSun from "./IconSun";
