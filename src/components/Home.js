@@ -24,7 +24,7 @@ const Home = () => {
         <IoMdPerson className="ml-2" />
       </button>
       {showBox ? (
-        <div className="fixed bottom-28 left-16 w-[1300px] bg-white py-8 px-16 rounded-lg ">
+        <div className="fixed bottom-28 left-16 w-[90%] bg-white py-8 px-16 rounded-lg ">
           <h1 className="text-[#C5C3C3] text-2xl mb-16 ">Menü</h1>
           <div className="grid sm:grid-cols-2 gap-6">
             <div>

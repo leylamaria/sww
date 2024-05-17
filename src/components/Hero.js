@@ -4,7 +4,7 @@ import "./Hero.css";
 
 const Hero = () => {
   return (
-    <div className=" mx-auto md:p-7">
+    <div className="mx-auto md:p-7">
       <div className="Hero rounded-md">
         <div className="text-left text-white py-12 lg:ms-[132px] ms-6 ">
           <img
